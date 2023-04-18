@@ -5,7 +5,11 @@ INSERT INTO Courses (course_id , teacher_id, course_name) VALUES
 (2, 1, 'Mechanics'),
 (3, 1, 'Algebra'),
 
+<<<<<<< HEAD
 (4, 2, 'French'),
+=======
+(4, 2, 'Spanish'),
+>>>>>>> feature/change2
 (5, 2, 'Writing'),
 
 (6, 3, 'Physics'),
@@ -14,7 +18,11 @@ INSERT INTO Courses (course_id , teacher_id, course_name) VALUES
 (9, 3, 'Anatomy'),
 (10, 3, 'Organic Chemistry'),
 
+<<<<<<< HEAD
 (11, 4, 'Rap'),
+=======
+(11, 4, 'Soul'),
+>>>>>>> feature/change2
 (12, 4, 'Jazz'),
 
 (13, 5, '3D Printing'),
